@@ -1,0 +1,27 @@
+body{
+  background-color: #FBEEE6;
+}
+.button{
+  background-color: red;
+  color:white;
+  text-align: center;
+  text-decoration: none;
+  border:none;
+  border-radius: 12px;
+  cursor:pointer;
+  padding:10px;
+}
+.black{
+  background-color: black;
+  cursor:pointer;
+  height:20px;
+  width:30px;
+  margin:20px;
+  border-radius: 50%
+}
+#canva{
+  cursor: pointer;
+}
+.tools{
+cursor: pointer;
+}
